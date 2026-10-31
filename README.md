@@ -1,6 +1,6 @@
 # 🔍 Agentic Fraud Detection System
 
-**Built by [Vaibhav Tarachandani](https://github.com/vivek070500)**
+**Built by [Vivek Tarachandani](https://github.com/vivek070500)**
 
 > Imagine you're a bank. Thousands of credit card transactions happen every second. Some are real people buying groceries. Some are thieves stealing money. How do you tell the difference — instantly, accurately, and without blocking real customers?
 >
